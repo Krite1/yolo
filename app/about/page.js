@@ -1,3 +1,4 @@
+'use client';
 import MDXcomponents from "@/components/MDXcomponents";
 import SectionHeader from "@/components/essential/SectionHeader";
 import Header from "@/components/home-3/Header";
