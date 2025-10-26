@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "dev": "node libs/fetch.mjs && next dev",
-    "build": "node libs/fetch.mjs && next build",
     "start": "next start",
     "lint": "next lint",
     "fetch": "node libs/fetch.mjs"
